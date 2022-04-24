@@ -1,3 +1,7 @@
+# Improve cellular network's performance
+
+118010302 Wang Runyu
+
 ## Co-channel cells and Co-channel interference
 
 ### Basics
@@ -87,3 +91,7 @@ With signal transmitting with larger and larger frequency, the transmitting dist
 
 ### An example: massive MIMO
 Massive MIMO and beamforming technology are one of the key technologies of mmWave systems. Massive MIMO can form narrower beams, and beamforming can reduce interference and improve signal-to-noise ratio. In actual deployment scenarios, the uplink and downlink coverage of base stations can be enhanced with the help of multi-channel and multi-antenna transceiver enhancements, and differentiated coverage solutions can be provided for high and low-rise buildings and linear roads.
+
+## Summary
+
+The blog has introduced concepts and solutions to improve cellular network's performance, and there are more technologies to be discovered. I would be appreciate if this article can provide insights regarding network optimization to you.
