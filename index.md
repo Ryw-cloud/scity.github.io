@@ -84,3 +84,6 @@ The traditional way to divide sectors is to use **directional antenna**. Co-chan
 ### Frequency challenge in 5G network
 
 With signal transmitting with larger and larger frequency, the transmitting distance will be more limited. For example, 4G LTE mainly applies 1.8-1.9GHz and 2.3-2.6GHz, while 5G NR mainly uses 3.4-3.6GHz and 4.7-4.9GHz.
+
+### An example: massive MIMO
+Massive MIMO and beamforming technology are one of the key technologies of mmWave systems. Massive MIMO can form narrower beams, and beamforming can reduce interference and improve signal-to-noise ratio. In actual deployment scenarios, the uplink and downlink coverage of base stations can be enhanced with the help of multi-channel and multi-antenna transceiver enhancements, and differentiated coverage solutions can be provided for high and low-rise buildings and linear roads.
